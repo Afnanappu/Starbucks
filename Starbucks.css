@@ -23,8 +23,12 @@ a {
     align-items: center;
 }
 
+.logo a{
+    padding-left: 25px;
+}
+
 .logo svg {
-    width: 50%;
+    width: 65%;
 }
 
 nav {
